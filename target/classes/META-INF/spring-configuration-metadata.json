@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.springframework.cloud.stream.app.transform.processor.TransformProcessorProperties",
+      "name": "",
+      "type": "org.springframework.cloud.stream.app.transform.processor.TransformProcessorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.springframework.cloud.stream.app.transform.processor.TransformProcessorProperties",
+      "name": "json-fields",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.cloud.stream.app.transform.processor.TransformProcessorProperties",
+      "name": "output-field-separator",
+      "type": "java.lang.String"
+    }
+  ]
+}

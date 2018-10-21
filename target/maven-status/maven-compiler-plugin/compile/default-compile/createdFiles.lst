@@ -1,0 +1,3 @@
+org\springframework\cloud\stream\app\transform\processor\TransformProcessorProperties.class
+org\springframework\cloud\stream\app\transform\processor\TransformProcessorConfiguration.class
+META-INF\spring-configuration-metadata.json
